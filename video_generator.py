@@ -6,7 +6,7 @@ from PIL import Image
 import google.generativeai as genai
 
 # CHANGE THIS: Your FREE Gemini API key
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"  
+GEMINI_API_KEY = "AIzaSyD_-TVRqARqdETRzylX_bynWkZCVtsPF-A"  
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Telugu dialogues ONLY (100% guarantee)
