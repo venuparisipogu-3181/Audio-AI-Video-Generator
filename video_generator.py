@@ -7,7 +7,7 @@ import google.generativeai as genai
 
 # CHANGE THIS: Your FREE Gemini API key
 GEMINI_API_KEY = "AIzaSyD_-TVRqARqdETRzylX_bynWkZCVtsPF-A"  
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(AIzaSyDYf7vOBgmogqZsfJrzGPEL4np62BHsGrk)
 
 # Telugu dialogues ONLY (100% guarantee)
 TELUGU_DIALOGUES = {
