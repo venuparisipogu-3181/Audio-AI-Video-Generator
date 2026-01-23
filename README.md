@@ -1,12 +1,16 @@
-# Audio-AI-Video-Generator
-# 🎬 తెలుగు AI వీడియో జనరేటర్
+# AI Telugu Cinematic Video Generator 🎬
 
-**తెలుగు UI + English Code = 100% Telugu Output**
+Free & Open-Source Telugu AI Video Generator.
 
-## 🚀 రన్ చేయడం
+## Features
+- Telugu human-like voice
+- Cinematic 3D visuals
+- Stable Diffusion + AnimateDiff
+- Situation based background music
+- 5+ minute continuous video
 
-```bash
-pip install -r requirements.txt
-# video_generator.py → AIzaSyAqBrGxrOsdHpVODcaWEo3_ahE-iiYiZPI
-python app.py
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER_NAME/YOUR_REPO_NAME/blob/main/Untitled0.ipynb)
+## Usage
+1. Open notebook in Google Colab
+2. Change runtime to GPU
+3. Run all cells
+4. Download final_output.mp4
