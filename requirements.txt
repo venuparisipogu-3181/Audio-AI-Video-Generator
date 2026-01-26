@@ -1,9 +1,2 @@
-torch
-transformers
-diffusers
-accelerate
-TTS
-pydub
-ffmpeg-python
-Pillow
 gradio
+requests
