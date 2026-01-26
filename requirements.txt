@@ -1,5 +1,9 @@
 torch
-torchvision
-torchaudio
-moviepy
+transformers
+diffusers
+accelerate
 TTS
+pydub
+ffmpeg-python
+Pillow
+gradio
